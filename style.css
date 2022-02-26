@@ -1,0 +1,15 @@
+body{
+	margin: 0;
+}
+.error{
+	color: red;
+	font-style: italic;
+}
+.register{
+	width:  40%;
+	margin:  0 auto;
+	margin-top:  30px;
+	padding: 30px;
+	border: 1px solid grey;
+
+}
